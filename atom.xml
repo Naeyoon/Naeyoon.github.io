@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Naeyoon.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-11T15:07:35.638Z</updated>
+    <updated>2021-12-11T15:10:07.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Naeyoon.github.io"/>
     <link rel="self" href="https://Naeyoon.github.io/atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://Naeyoon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[# 提问 先看置顶#FAQ (更新于2021-12-11)]]></title>
+        <title type="html"><![CDATA[iOS Jailbreak Gruop Pinned Message]]></title>
         <id>https://Naeyoon.github.io/post/ti-wen-xian-kan-zhi-ding-faq-geng-xin-yu-2021-12-11/</id>
         <link href="https://Naeyoon.github.io/post/ti-wen-xian-kan-zhi-ding-faq-geng-xin-yu-2021-12-11/">
         </link>
         <updated>2021-12-11T15:05:44.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/edit#gid=128016025">当前主流的三款越狱工具对各个版本/型号的支持情况</a></p>
+        <content type="html"><![CDATA[<h1 id="提问-先看置顶faq-更新于2021-12-11">提问 先看置顶#FAQ (更新于2021-12-11)</h1>
+<p><a href="https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/edit#gid=128016025">当前主流的三款越狱工具对各个版本/型号的支持情况</a></p>
 <hr>
 <h3 id="1⃣️checkra1n">1⃣️***<a href="https://checkra.in">checkra1n</a>***</h3>
 <p>支持iPhone 5s — iPhone X iOS12.0及以上(不含iOS 15)的设备版本</p>
@@ -31,10 +32,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7330091"><label class="task-list-item-label" for="task-item-7330091"> Allow untested iOS/iPadOS/tvOS versions</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2904398"><label class="task-list-item-label" for="task-item-2904398"> Allow untested iOS/iPadOS/tvOS versions</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4405416"><label class="task-list-item-label" for="task-item-4405416"> Skip A11 BPR check</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5629528"><label class="task-list-item-label" for="task-item-5629528"> Skip A11 BPR check</label></p>
 </li>
 </ul>
 <ol start="3">
