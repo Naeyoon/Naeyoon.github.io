@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Naeyoon.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-11T15:07:30.361Z</updated>
+    <updated>2021-12-11T15:07:35.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Naeyoon.github.io"/>
     <link rel="self" href="https://Naeyoon.github.io/atom.xml"/>
@@ -31,10 +31,10 @@
 </ol>
 <ul class="contains-task-list">
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3708658"><label class="task-list-item-label" for="task-item-3708658"> Allow untested iOS/iPadOS/tvOS versions</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7330091"><label class="task-list-item-label" for="task-item-7330091"> Allow untested iOS/iPadOS/tvOS versions</label></p>
 </li>
 <li class="task-list-item">
-<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1393168"><label class="task-list-item-label" for="task-item-1393168"> Skip A11 BPR check</label></p>
+<p><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4405416"><label class="task-list-item-label" for="task-item-4405416"> Skip A11 BPR check</label></p>
 </li>
 </ul>
 <ol start="3">
